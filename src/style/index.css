@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #001219;
+    color: #ffffff;
+}
+
+h1, .header {
+    font-weight: 900;
+}
+
+h3, .accordion-header {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.container {
+    padding-top: 3%;
+}
+
+.col-sm {
+    text-align: center;
+}
+
+#logo {
+    height: 30px;
+}
+
+.icons {
+    width: 200px;
+    border-radius: 5px;
+}
