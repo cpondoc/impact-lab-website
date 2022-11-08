@@ -127,6 +127,9 @@ const IndexPage = () => {
         <p>Have any questions? Reach out to Impact Lab Co-Leads Christopher Pondoc (clpondoc@stanford.edu) or Phil Bailargeron (pabaill@stanford.edu) if you have any questions!</p>
       </h3>
       <br />
+      <div className="col-sm">
+        <p>Website maintained by <a href="http://chrispondoc.com/">Chris Pondoc</a>. Code available on <a href="https://github.com/cpondoc/impact-lab-website">Github</a>.</p>
+      </div>
     </div>
   )
 }
