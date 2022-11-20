@@ -51,7 +51,7 @@ const IndexPage = () => {
           <Accordion.Header><p className="accordion-header">What does the Impact Lab Application process look like?</p></Accordion.Header>
           <Accordion.Body>
             <ul>
-              <li>Fill out our Google Form application by December 3rd</li>
+              <li>Fill out our Google Form application by December 17th</li>
               <li>Wait for lab matches, which will be emailed over winter break.</li>
               <li>If accepted by a lab, get excited and welcome to Impact Lab!</li>
               <li>Once you receive your match make sure to reach out to your lab.</li>
@@ -98,8 +98,8 @@ const IndexPage = () => {
       <h3 className="header">Timeline
         <br />
         <p>Below are some key dates:</p>
-        <p><b><u>November 14:</u></b> Applications Open</p>
-        <p><b><u>December 14:</u></b> Applications Close</p>
+        <p><b><u>November 18:</u></b> Applications Open</p>
+        <p><b><u>December 17:</u></b> Applications Close</p>
         <p><b><u>Winter Break:</u></b> Decisions Released</p>
       </h3>
       <br />
